@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @glamour-bene
+- 👋 Hi, I’m Benedict
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on cybersecurity or even data analytics
-- 📫 you can reach me via my instagram @glam.our_4l
+- 📫 You can reach me via my instagram @glam.our_4l
 - ⚡ Fun fact: I love gaming alot
 
 <!---
