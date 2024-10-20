@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Benedict
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on cybersecurity or even data analytics
-- 📫 You can reach me via my instagram @glam.our_4l
+- 💞️ I’m looking to collaborate on cybersecurity
+- 📫 You can reach me via my email benedictkevin132@gmail.com 
 - ⚡ Fun fact: I love gaming alot
 
 <!---
